@@ -5,7 +5,7 @@
   --header-height: 3rem;
   /*========== Colors ==========*/
   /* Change favorite color */
-  --hue-color: 220;
+  --hue-color: 250;
   /*Purple 250 - Green 142 - Blue 220 - Pink 340 - Teal 175 - Red 365 - Orange 17 (100%, 50%) */
   /* HSL color mode , back to original change first color to 69% and 61% */
   --first-color: hsl(var(--hue-color), 69%, 61%);
